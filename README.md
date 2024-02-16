@@ -24,7 +24,7 @@ Doxing / OSINT
 
 Other resources
 ---
-
+- https://www.kitploit.com/
 - http://sectools.org/
 - http://pwnwiki.io/
 - https://www.cybrary.it/
